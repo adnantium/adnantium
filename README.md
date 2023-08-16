@@ -3,12 +3,12 @@
 ```python
 adnan = Human({
 	'name': 'adnan malik',
-	'version': '6.4rc2'
+	'version': '8.4rc2'
 	'aka': 'adnantium',
-	'languages': ['python', 'english', 'javascript', 'urdu', 'punjabi', 'lisp'],
-	'tools': ['Django', 'Kafka', 'NATS', 'Flask', 'REST', 'MongoDB', 'Redis']
-	'systems': ['distributed', 'decentralized', 'blockchains', 'streaming data', 'web applications']
-	'experience': ['software engineer', 'systems architect', 'solutions creator', 'technology director']
+	'languages': ['Python', 'English', 'Javascript', 'Urdu', 'Punjabi', 'lisp'],
+	'tools': ['Django', 'FASTApi', 'Kafka', 'REST APIs', 'MongoDB', 'Redis', 'PostgeSQL', 'LLMs'],
+	'systems': ['Microservices', 'Streaming data', 'Distributed', 'Decentralized', 'BlockChains', 'Web Applications'],
+	'experience': ['software engineer', 'systems architect', 'solutions creator', 'technology director'],
 	'hobbies': [
 		'80s motorcycles', 
 		'README files', 
@@ -23,7 +23,7 @@ adnan = Human({
 	'known_issues': None,
 	'favorites': {
 		'colors': ['blue', 'black'],
-		'nuts': ['cashews', 'almonds', 'pistacios'],
+		'nuts': ['cashews', 'almonds', 'pistachios'],
 		'super-heros': ['Spider-Man', 'Captain America', 'Daredevil'],
 		'candies': ['kit-kat'],
 	},
