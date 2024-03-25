@@ -9,6 +9,7 @@ adnan = Human({
 	'tools': ['Django', 'FASTApi', 'Kafka', 'REST APIs', 'MongoDB', 'Redis', 'PostgeSQL', 'LLMs'],
 	'systems': ['Microservices', 'Streaming data', 'Distributed', 'Decentralized', 'BlockChains', 'Web Applications'],
 	'experience': ['software engineer', 'systems architect', 'solutions creator', 'technology director'],
+	'p(doom)': 40,
 	'hobbies': [
 		'80s motorcycles', 
 		'README files', 
