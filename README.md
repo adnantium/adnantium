@@ -6,9 +6,12 @@ adnan = Human({
 	'version': '8.4rc2'
 	'aka': 'adnantium',
 	'languages': ['Python', 'English', 'Javascript', 'Urdu', 'Punjabi', 'lisp'],
-	'tools': ['Django', 'FastAPI', 'Kafka', 'REST APIs', 'MongoDB', 'Redis', 'PostgeSQL', 'LLMs', 'LangChain'],
-	'systems': ['GenerativeAI', 'LLMs', 'Microservices', 'Streaming data', 'Distributed Systems', 'Decentralized Systems', 'BlockChains', 'Web Applications'],
-	'experience': ['software engineer', 'systems architect', 'solutions creator', 'technology director'],
+	'tools': ['Django', 'FastAPI', 'Kafka', 'REST APIs', 'MongoDB', 'Redis',
+		'PostgeSQL', 'LLMs', 'LangChain'],
+	'systems': ['GenerativeAI', 'LLMs', 'Microservices', 'Streaming data',
+		'Distributed Systems', 'Decentralized Systems', 'BlockChains', 'Web Applications'],
+	'experience': ['software engineer', 'systems architect', 'solutions creator',
+		'technology director'],
 	'p(doom)': 60,
 	'hobbies': [
 		'80s motorcycles', 
