@@ -6,17 +6,18 @@ adnan = Human({
 	'version': '8.4rc2'
 	'aka': 'adnantium',
 	'languages': ['Python', 'English', 'Javascript', 'Urdu', 'Punjabi', 'lisp'],
-	'tools': ['Django', 'FastAPI', 'Kafka', 'REST APIs', 'MongoDB', 'Redis', 'PostgeSQL', 'LLMs'],
-	'systems': ['Microservices', 'Streaming data', 'Distributed', 'Decentralized', 'BlockChains', 'Web Applications'],
+	'tools': ['Django', 'FastAPI', 'Kafka', 'REST APIs', 'MongoDB', 'Redis', 'PostgeSQL', 'LLMs', 'LangChain'],
+	'systems': ['GenerativeAI', 'LLMs', 'Microservices', 'Streaming data', 'Distributed Systems', 'Decentralized Systems', 'BlockChains', 'Web Applications'],
 	'experience': ['software engineer', 'systems architect', 'solutions creator', 'technology director'],
-	'p(doom)': 40,
+	'p(doom)': 60,
 	'hobbies': [
 		'80s motorcycles', 
 		'README files', 
 		'being and nothingness', 
 		'drawing incomplete pen & pencil sketches', 
 		'photographing abandonded buildings',
-		'questioning existence of souls and free-will'
+		'questioning existence of souls and free-will',
+		'thai food',
 	],
 	'shoe_size': 9.5,
 	'offspring': [(Kid(n) + Unconditional(Love)) for n in range(2)],
